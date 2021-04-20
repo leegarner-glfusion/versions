@@ -1,8 +1,11 @@
 {
   "authorizenet": {
-    "version": "1.0.0"
+    "version": "1.3.0"
   },
   "coingate": {
+    "version": "0.0.1"
+  },
+  "paylike": {
     "version": "0.0.1"
   }
 }
