@@ -1,0 +1,8 @@
+{
+  "authorizenet": {
+    "version": "1.0.0"
+  },
+  "coingate": {
+    "version": "0.0.1"
+  }
+}
